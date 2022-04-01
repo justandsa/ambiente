@@ -1,0 +1,27 @@
+body { 
+border:8px solid;
+margin-top: 15PX;
+margin-left: 15PX;
+margin-right: 15PX;
+border-color: GREEN;
+background: orange;
+color: BLACK;
+text-align: center;
+}
+
+P  { 
+margin-left: 40PX;
+margin-right: 40PX;
+text-align:justify;
+font-size: 25PX;
+}
+
+
+
+img{ 
+border-style: dashed;
+border-width: 15PX; 
+border-color: RED;
+border-radius: 80PX;
+float: center;
+}
